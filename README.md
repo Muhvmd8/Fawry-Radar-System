@@ -211,3 +211,25 @@ One of the most important software engineering skills is knowing when to introdu
 If future requirements introduce multiple calculation strategies or different fine calculation policies, introducing IFineCalculator would become a reasonable refactoring. Until then, keeping the implementation straightforward results in a cleaner and more maintainable solution.
 
 Design is about balancing flexibility and simplicity. Not every dependency should be abstracted from day one.
+
+---
+
+# Resources
+
+The following resources helped me while designing and implementing this solution:
+
+## Specification Pattern
+
+- My own implementation and notes on the Specification Pattern:
+- **Specification Pattern Demo** — [https://github.com/Muhvmd8/SpecificationPatternDemo](https://github.com/Muhvmd8/SpecificationPatternDemo)
+
+## SOLID Principles
+
+- Robert C. Martin (Uncle Bob) - SOLID Principles
+- Microsoft Learn – Design patterns and architecture guidance
+- Martin Fowler – Enterprise Application Architecture
+
+## UML
+
+- Mermaid Class Diagram Documentation
+  - https://mermaid.js.org/syntax/classDiagram.html
