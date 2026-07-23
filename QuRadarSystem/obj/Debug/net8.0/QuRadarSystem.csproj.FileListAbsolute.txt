@@ -1,0 +1,15 @@
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\bin\Debug\net8.0\QuRadarSystem.exe
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\bin\Debug\net8.0\QuRadarSystem.deps.json
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\bin\Debug\net8.0\QuRadarSystem.runtimeconfig.json
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\bin\Debug\net8.0\QuRadarSystem.dll
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\bin\Debug\net8.0\QuRadarSystem.pdb
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.AssemblyInfoInputs.cache
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.AssemblyInfo.cs
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.csproj.CoreCompileInputs.cache
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.sourcelink.json
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.dll
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\refint\QuRadarSystem.dll
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.pdb
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\QuRadarSystem.genruntimeconfig.cache
+C:\Users\mohammed anwar\Desktop\QuRadarSystem\QuRadarSystem\obj\Debug\net8.0\ref\QuRadarSystem.dll
